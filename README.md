@@ -29,9 +29,3 @@ Here's a sneak peek of the website:
 ## 🛠️ Tech Stack
 - **HTML5**: Markup language for structuring the content.
 - **CSS3**: For styling and layout.
-
-## 🔗 Links
-- [Live Demo](#) *(Replace with the live site link if hosted)*
-
-## 🌈 Acknowledgements
-Special thanks to all web development resources and tutorials that inspired this project. 😊
